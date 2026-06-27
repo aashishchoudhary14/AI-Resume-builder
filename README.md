@@ -114,13 +114,13 @@ npm run dev
 
 ## Author
 
-Laxminarayan Choudhary
+Aashish Choudhary
 
-B.Tech, Chemical Engineering
-Indian Institute of Technology (BHU), Varanasi
+B.S(Hons)Mathematics and Computing
+Indian Institute of Technology Kharagpur
 
 GitHub:
-https://github.com/Laxminarayan-Choudhary
+https://github.com/aashishchoudhary14
 
 ## License
 
